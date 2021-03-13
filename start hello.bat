@@ -1,0 +1,2 @@
+ECHO "Hello, bat"
+PAUSE
